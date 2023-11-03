@@ -66,4 +66,8 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+    //material design
+    implementation ("androidx.compose.material3:material3")
+    implementation ("androidx.core:core-ktx:+")
+    implementation ("androidx.wear.compose:compose-material:1.3.0-alpha03")
 }
